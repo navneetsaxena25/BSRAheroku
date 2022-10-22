@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run app with trim1.py

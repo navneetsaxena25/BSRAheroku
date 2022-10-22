@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 28 00:06:48 2022
+
+@author: navne
+"""
+
+xgboost
+sklearn
+pandas
+keras
